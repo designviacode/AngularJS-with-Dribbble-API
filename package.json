@@ -1,0 +1,28 @@
+{
+  "name": "angularjs-with-dribbble-api",
+  "version": "1.0.0",
+  "description": "An AngularJS project using the Dribbble public API to create a simple,limited clone of Dribbble and its few features.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designviacode/AngularJS-with-Dribbble-API.git"
+  },
+  "keywords": [
+    "angularjs",
+    "dribbble",
+    "api"
+  ],
+  "author": "Manpreet Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/designviacode/AngularJS-with-Dribbble-API/issues"
+  },
+  "homepage": "https://github.com/designviacode/AngularJS-with-Dribbble-API#readme",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "bootstrap": "^3.3.5"
+  }
+}
