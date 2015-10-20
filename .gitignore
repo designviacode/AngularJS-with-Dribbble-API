@@ -27,3 +27,11 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+
+#################
+## Linux
+#################
+
+#ignore .swp or swap files
+*.swp
+*.swo
