@@ -23,6 +23,7 @@
   "homepage": "https://github.com/designviacode/AngularJS-with-Dribbble-API#readme",
   "dependencies": {
     "angular": "^1.4.7",
-    "bootstrap": "^3.3.5"
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.3"
   }
 }
